@@ -1,0 +1,39 @@
+{
+    "inputOutputFileFormatOpenCV": [
+        ".bmp",
+        ".dib",
+        ".exr",
+        ".hdr",
+        ".jp2",
+        ".jpe",
+        ".jpeg",
+        ".jpg",
+        ".pbm",
+        ".pgm",
+        ".pic",
+        ".png",
+        ".pnm",
+        ".ppm",
+        ".pxm",
+        ".ras",
+        ".sr",
+        ".tif",
+        ".tiff",
+        ".webp"
+    ],
+    "inputOutputFileFormatPillow": [
+        ".bmp",
+        ".eps",
+        ".gif",
+        ".icns",
+        ".ico",
+        ".im",
+        ".jpeg",
+        ".msp",
+        ".pcx",
+        ".png",
+        ".sgi",
+        ".xbm"
+    ],
+    "outputFileFormatPillow": [".palm", ".pdf", ".xvthumbnails"]
+}
